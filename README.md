@@ -9,7 +9,7 @@
 
 ## Demo Video
 
-🎥 [Watch Demo Video](https://youtu.be/-xYmPA5PPs4)
+🎥 [Watch Demo Video](https://youtu.be/Nq5pd__w24s)
 
 ---
 
@@ -29,3 +29,4 @@
 ## Challenges and Learnings (Optional)
 
 ## Acknowledgments
+- https://fastapi.tiangolo.com/tutorial/cors/#use-corsmiddleware
